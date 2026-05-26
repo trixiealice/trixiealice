@@ -1,1 +1,3 @@
-![snake gif](https://github.com/trixiealice/trixiealice/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/trixiealice/trixiealice/blob/output/github-snake-dark.svg" />
+</p>
