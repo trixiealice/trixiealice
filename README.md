@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiealice&show_icons=true&theme=radical)
+![snake gif](https://github.com/trixiealice/trixiealice/blob/output/github-contribution-grid-snake.svg)
