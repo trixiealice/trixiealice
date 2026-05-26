@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/trixiealice/trixiealice/blob/output/github-snake-dark.svg" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trixiealice&show_icons=true&theme=radical)
