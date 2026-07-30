@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Alice!! 𖧷₊˚˖𓍢ִ🍓✧˚.🎀༘⋆ﾟ＊
+# Hello, I'm Alice!! 𖧷₊˚˖𓍢ִ🎨✧˚.✨⋆ﾟ＊
 
 *"Big things always have small beginnings"* ✨
 
